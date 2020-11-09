@@ -1,7 +1,9 @@
+import Pokemons from "./components/Pokemons";
+
 const App = () => {
     return (
-        <div className="App">
-            <h1>App</h1>
+        <div className="container mt-3">
+            <Pokemons />
         </div>
     );
 };

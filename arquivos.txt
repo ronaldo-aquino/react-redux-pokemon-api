@@ -1,0 +1,2 @@
+Url da api de pokemons = https://pokeapi.co/api/v2/pokemon?offset=0&limit=20
+Ativar o redux devtools = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || COMPOSE
